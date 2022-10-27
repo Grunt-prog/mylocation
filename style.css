@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#map{
+    height: 80vh;
+    margin-top: 40px;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 17px;
+    color: #FFF;
+    text-align: center;
+    margin: 20px;
+}
+body{
+    background-color: black;
+}
